@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ayush Kumar Singh and I'm a 3rd year undergraduate pursuing Mechanical Engineering from IIT MANDI.</p>
+<p align="left">My name is Ayush Kumar Singh and I'm a Final year undergrad pursuing Mechanical Engineering from IIT MANDI.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning programming , tech, ai, ml and exploring a lot more<br>🎯 Goals: Tech expert & Field Specialist<br>🎲 Fun fact: discovering that too</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 Got Involved in a lot of projects- solo, Group project through whuch I learned a lot in Machine Learning, Data Science and programming also. Technology has always been my friend and loved exploring new things. I've also been involved in Web Development - HTML,CSS and JAvascript which can be seen in my personal portfolio website. I've also explored Cybersecurity and getting some hands on new tech. <br>🎯 Goals: Tech expert & Field Specialist<br>🎲 Fun fact: discovering that too</p>
 
 ###
 
